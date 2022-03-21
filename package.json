@@ -1,7 +1,7 @@
 {
-  "name": "gulp-sass-boilerplate",
+  "name": "order-summary-card",
   "version": "1.0.0",
-  "description": "Minimal Gulp workflow to compile Sass",
+  "description": "card showing the totall price of items bought",
   "keywords": [],
   "author": "Ehsan Mavaei (ehsancodes)",
   "license": "ISC",
